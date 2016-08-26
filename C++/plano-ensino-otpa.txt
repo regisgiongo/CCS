@@ -114,9 +114,9 @@ Observações:
 Seminários:
 
 Renan: Teoria dos números -- 
-Regis: Tratamento de String
+Regis: Processamento de String
 Tiago: Geometria Computacional
-Guilherme: Grafo - Arvores e Grafos em Acíclicos
+Guilherme: Grafo - Arvores e Grafos em Acíclicos 
 Leonardo: Union-Find Disjoint Sets
 Rafael: Backtracking
 Bruno: Busca Gulosa
